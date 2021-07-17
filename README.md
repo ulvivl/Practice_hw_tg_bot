@@ -11,3 +11,7 @@
 ## Использумеые методы:
 
 Для написания данного бота, мне в первую очередь понадобились знания языка программировния python, также в процессе разработки были изучены методы работы с vk api и с написанием телеграмм ботов.
+
+## Сслыка на обзо краткий:
+
+https://eduhseru-my.sharepoint.com/:v:/g/personal/uvvinogradova_edu_hse_ru/EUF3lRoC3yVDn0lglf-yYKwBju2oOrnMI80ZI86FjUOZIg?e=hsRyjJ
