@@ -15,3 +15,4 @@
 ## Сслыка на краткий обзор:
 
 https://eduhseru-my.sharepoint.com/:v:/g/personal/uvvinogradova_edu_hse_ru/EUF3lRoC3yVDn0lglf-yYKwBju2oOrnMI80ZI86FjUOZIg?e=hsRyjJ
+Если данная ссылка не открывается через safari или что-то еще, попробуйте через google chrome
